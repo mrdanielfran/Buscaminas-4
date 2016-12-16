@@ -1,4 +1,3 @@
-@@ -1,15 +1,387 @@
 //
 //  main.cpp
 //  Buscaminas 4
@@ -67,10 +66,7 @@ void nstrucciones()
     main();
 }
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+
 void buscaminas()
 {
     
